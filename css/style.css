@@ -2,14 +2,21 @@ div{
     margin: auto;
     h1{
         text-align: center;
-        color: rgb(147, 191, 231);
+        color: rgb(192, 229, 238);
     }
     h2{
         display: flex;
         justify-self: end;
+        
+        
+        color: rgb(192, 229, 238);
     }
 }
 img{
     display: flex;
     margin: auto;
+}
+
+body{
+    background-color:rgb(14, 14, 27) ;
 }
