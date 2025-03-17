@@ -1,0 +1,15 @@
+div{
+    margin: auto;
+    h1{
+        text-align: center;
+        color: rgb(147, 191, 231);
+    }
+    h2{
+        display: flex;
+        justify-self: end;
+    }
+}
+img{
+    display: flex;
+    margin: auto;
+}
